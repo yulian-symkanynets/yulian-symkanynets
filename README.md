@@ -8,12 +8,6 @@ I'm **Yulian Symkanynets**, an 18-year-old IT student with a keen interest in Da
 - 🗄️ Databases: ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - 🛠️ Tools: ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 💡 Projects
-(Include project names and descriptions here, you can also provide a link to each project)
-
-1. [Project Name](link to the project): A brief description of what the project does.
-2. [Project Name](link to the project): A brief description of what the project does.
-
 ## 📫 Reach me on
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yulian-symkanynets-a78797180/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jyl_sym/)
